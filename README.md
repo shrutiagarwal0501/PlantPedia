@@ -7,6 +7,7 @@
 
 ```
 PlantPedia/
+├── README.md
 ├── templates/
 │   ├── index.html       # Homepage with image upload
 │   ├── result.html      # Displays predicted plant and info
